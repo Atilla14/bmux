@@ -1,2 +1,2 @@
 # bmux
-tmux for browser
+tmux for browsers
